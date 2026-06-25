@@ -42,6 +42,6 @@
   Application web d'aide à la décision pour agriculteurs basée sur une analyse météo par réseau de neurones.  
   `Vue.js` `Python` `Machine Learning`
 
-  ### ⚔️ [Guild Manager — Jeu de gestion de guilde](https://github.com/Tom0204/Jeu_Console_cpp)
+  ### [Guild Manager — Jeu de gestion de guilde](https://github.com/Tom0204/Jeu_Console_cpp)
   Jeu tour par tour en console où le joueur recrute et gère une guilde d'aventuriers pour accomplir des quêtes.  
   `C++` `Orienté objet` `Console`
