@@ -37,6 +37,6 @@
   Scripts JavaScript sur VM · Rapport complet de 25 pages  
   `JavaScript` `SQL` `NoSQL`
 
-  ### [IA & Agriculture](https://github.com/Tom0204/)
+  ### [IA & Agriculture](https://github.com/Tom0204/Projet-Etude-Web-Mobile-App-Prototype)
   Application web d'aide à la décision pour agriculteurs basée sur une analyse météo par réseau de neurones.  
   `Vue.js` `Python` `Machine Learning`
