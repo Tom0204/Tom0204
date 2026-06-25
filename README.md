@@ -45,3 +45,21 @@
   ### [Guild Manager — Jeu de gestion de guilde](https://github.com/Tom0204/Jeu_Console_cpp)
   Jeu tour par tour en console où le joueur recrute et gère une guilde d'aventuriers pour accomplir des quêtes.  
   `C++` `Orienté objet` `Console`
+
+ ### [Portfolio de projets personnels](https://github.com/Tom0204/Portfolio) *(en cours)*
+  Projets personnels sur différentes technologies, réalisés en dehors de la formation.  
+  `En construction`
+
+  <!--
+  ### [API REST de gestion de tâches](https://github.com/Tom0204/Portfolio/tree/main/Python/api-rest-taches)
+  API back-end permettant de créer, lire, modifier et supprimer des tâches.  
+  `Python` `FastAPI` `SQL`
+
+  ### [Scraper météo](https://github.com/Tom0204/Portfolio/tree/main/Python/scraper-meteo)
+  Script Python qui récupère et affiche les prévisions météo depuis le web.  
+  `Python` `BeautifulSoup` `API`
+
+  ### [Gestionnaire de contacts](https://github.com/Tom0204/Portfolio/tree/main/PHP/gestionnaire-contacts)
+  Application back-end pour gérer une liste de contacts avec une base de données.  
+  `PHP` `MySQL` `REST`
+  -->
