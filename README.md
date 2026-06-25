@@ -32,11 +32,11 @@
 
 ## Projets mis en avant
 
-  ### [Benchmark SQL vs NoSQL](https://github.com/Tom0204/benchmark-sql-vs-nosql)
+  ### [Benchmark SQL vs NoSQL](https://github.com/Tom0204/ProjetEtude-sql-vs-nosql)
   Comparaison des performances entre bases de données relationnelles et NoSQL.  
   Scripts JavaScript sur VM · Rapport complet de 25 pages  
   `JavaScript` `SQL` `NoSQL`
 
-  ### [IA & Agriculture](https://github.com/Tom0204/NOM-DU-REPO-FORKÉ)
+  ### [IA & Agriculture](https://github.com/Tom0204/)
   Application web d'aide à la décision pour agriculteurs basée sur une analyse météo par réseau de neurones.  
   `Vue.js` `Python` `Machine Learning`
