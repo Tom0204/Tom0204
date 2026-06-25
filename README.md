@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Technologies & Outils
+## Technologies & Outils
 
 **Langages**
 
@@ -30,6 +30,4 @@
 
 ---
 
-## 📌 Projets mis en avant
-
-> *(Section à compléter au fur et à mesure — ajoute ici tes meilleurs projets avec un lien)*
+## Projets mis en avant
